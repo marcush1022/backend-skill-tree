@@ -1,7 +1,7 @@
 # back-end-skill-tree
 ## **Index of Contents**
 
-```shell
+```
 .
 ├── README.md
 ├── advanced-go-learning-note
@@ -43,6 +43,8 @@
     ├── readme.md
     └── restful.md
 ```
+
+<br>
 
 this picture is from: https://roadmap.sh/backend
 <img src="./img/backend.jpg" width="3406 " height=" 8564" alt="road_map" align=center/>
