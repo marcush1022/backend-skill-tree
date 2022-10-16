@@ -16,7 +16,7 @@
 │   ├── 08.分布式缓存&分布式事务2.md
 │   └── 12.runtime.md
 ├── caching
-│   ├── local-cache-vs-redis-cache.md
+│   ├── local-cache-vs-distributed-cache.md
 │   ├── redis
 │   │   ├── basic-data-structure
 │   │   │   ├── 1.string.md
