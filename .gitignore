@@ -1,0 +1,6 @@
+# idea ignore
+.idea/
+.vscode/
+
+# system ignore
+.DS_Store
