@@ -4,3 +4,6 @@
 
 # system ignore
 .DS_Store
+
+# project ignore
+tmp
