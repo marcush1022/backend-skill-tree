@@ -3,7 +3,7 @@
 
 ```
 .
-├── advanced-go-learning-note
+├── advanced-go-learning-notes
 │   ├── 01.微服务概览与治理.md
 │   ├── 02.异常处理.md
 │   ├── 03.并行编程1.md
@@ -15,6 +15,14 @@
 │   ├── 08.分布式缓存&分布式事务1.md
 │   ├── 08.分布式缓存&分布式事务2.md
 │   └── 12.runtime.md
+├── aws-certified-developer-associate-notes
+│   ├── implementing-microservices-on-aws
+│   │   ├── 01.Microservices-architecture-on-AWS.md
+│   │   ├── 02.Reducing-Operational-Complexity.md
+│   │   └── 03.Distributed-systems-components.md
+│   └── udemy-course
+│       ├── 03.Getting-started-with-AWS.md
+│       └── 04.IAM-&-AWS-CLI.md
 ├── caching
 │   ├── local-cache-vs-distributed-cache.md
 │   ├── redis
@@ -62,9 +70,11 @@
 │   │       └── index.md
 │   ├── redis-cache-lock-problem.md
 │   └── why-use-cache.md
-├── cloud-native-learning-note
+├── cloud-native-learning-notes
 │   └── 1.docker.md
-├── go-expert-programming
+├── cracking-the-coding-interview-notes
+│   └── 01.the_interview_process.md
+├── go-expert-programming-notes
 │   ├── 1.数据结构
 │   │   ├── 1.channel.md
 │   │   ├── 2.slice.md
@@ -73,7 +83,6 @@
 │   │   ├── 5.iota.md
 │   │   ├── 6.string.md
 │   │   ├── go语言坑之并发访问map.md
-│   │   ├── index.md
 │   │   ├── json包变量不加tag会怎么样.md
 │   │   ├── nil切片和空切片一不一样.md
 │   │   └── sync.Map揭秘.md
