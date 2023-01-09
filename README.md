@@ -152,7 +152,7 @@
 
 ```shell
 # generate this index
-tree -L 4 -I *.jpg -I *.png -I *.webp -I img -I images -I README.md -I readme.md
+tree -L 4 -I *.jpg -I *.png -I *.webp -I img -I images -I README.md -I readme.md -I *.log
 ```
 
 <br>
